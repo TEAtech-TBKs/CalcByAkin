@@ -2,7 +2,7 @@
 
 A stylish and responsive calculator built with HTML, CSS, and JavaScript. It handles basic arithmetic operations and provides an interactive UI for simple daily calculations.
 
-![screenshot](screenshot.png) <!-- optional, add a screenshot of your UI here -->
+
 
 ## Features
 
